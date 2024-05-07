@@ -1,0 +1,14 @@
+C:\Users\Jarvis\Documents\Exercicios c#\TrianguloPOO\TrianguloPOO\bin\Debug\net7.0\TrianguloPOO.exe
+C:\Users\Jarvis\Documents\Exercicios c#\TrianguloPOO\TrianguloPOO\bin\Debug\net7.0\TrianguloPOO.deps.json
+C:\Users\Jarvis\Documents\Exercicios c#\TrianguloPOO\TrianguloPOO\bin\Debug\net7.0\TrianguloPOO.runtimeconfig.json
+C:\Users\Jarvis\Documents\Exercicios c#\TrianguloPOO\TrianguloPOO\bin\Debug\net7.0\TrianguloPOO.dll
+C:\Users\Jarvis\Documents\Exercicios c#\TrianguloPOO\TrianguloPOO\bin\Debug\net7.0\TrianguloPOO.pdb
+C:\Users\Jarvis\Documents\Exercicios c#\TrianguloPOO\TrianguloPOO\obj\Debug\net7.0\TrianguloPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jarvis\Documents\Exercicios c#\TrianguloPOO\TrianguloPOO\obj\Debug\net7.0\TrianguloPOO.AssemblyInfoInputs.cache
+C:\Users\Jarvis\Documents\Exercicios c#\TrianguloPOO\TrianguloPOO\obj\Debug\net7.0\TrianguloPOO.AssemblyInfo.cs
+C:\Users\Jarvis\Documents\Exercicios c#\TrianguloPOO\TrianguloPOO\obj\Debug\net7.0\TrianguloPOO.csproj.CoreCompileInputs.cache
+C:\Users\Jarvis\Documents\Exercicios c#\TrianguloPOO\TrianguloPOO\obj\Debug\net7.0\TrianguloPOO.dll
+C:\Users\Jarvis\Documents\Exercicios c#\TrianguloPOO\TrianguloPOO\obj\Debug\net7.0\refint\TrianguloPOO.dll
+C:\Users\Jarvis\Documents\Exercicios c#\TrianguloPOO\TrianguloPOO\obj\Debug\net7.0\TrianguloPOO.pdb
+C:\Users\Jarvis\Documents\Exercicios c#\TrianguloPOO\TrianguloPOO\obj\Debug\net7.0\TrianguloPOO.genruntimeconfig.cache
+C:\Users\Jarvis\Documents\Exercicios c#\TrianguloPOO\TrianguloPOO\obj\Debug\net7.0\ref\TrianguloPOO.dll

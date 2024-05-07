@@ -1,0 +1,70 @@
+C:\Users\Jarvis\Documents\Exercicios c#\ProdutoPOO\ProdutoPOO\bin\Debug\net7.0\ProdutoPOO.exe
+C:\Users\Jarvis\Documents\Exercicios c#\ProdutoPOO\ProdutoPOO\bin\Debug\net7.0\ProdutoPOO.deps.json
+C:\Users\Jarvis\Documents\Exercicios c#\ProdutoPOO\ProdutoPOO\bin\Debug\net7.0\ProdutoPOO.runtimeconfig.json
+C:\Users\Jarvis\Documents\Exercicios c#\ProdutoPOO\ProdutoPOO\bin\Debug\net7.0\ProdutoPOO.dll
+C:\Users\Jarvis\Documents\Exercicios c#\ProdutoPOO\ProdutoPOO\bin\Debug\net7.0\ProdutoPOO.pdb
+C:\Users\Jarvis\Documents\Exercicios c#\ProdutoPOO\ProdutoPOO\obj\Debug\net7.0\ProdutoPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jarvis\Documents\Exercicios c#\ProdutoPOO\ProdutoPOO\obj\Debug\net7.0\ProdutoPOO.AssemblyInfoInputs.cache
+C:\Users\Jarvis\Documents\Exercicios c#\ProdutoPOO\ProdutoPOO\obj\Debug\net7.0\ProdutoPOO.AssemblyInfo.cs
+C:\Users\Jarvis\Documents\Exercicios c#\ProdutoPOO\ProdutoPOO\obj\Debug\net7.0\ProdutoPOO.csproj.CoreCompileInputs.cache
+C:\Users\Jarvis\Documents\Exercicios c#\ProdutoPOO\ProdutoPOO\obj\Debug\net7.0\ProdutoPOO.dll
+C:\Users\Jarvis\Documents\Exercicios c#\ProdutoPOO\ProdutoPOO\obj\Debug\net7.0\refint\ProdutoPOO.dll
+C:\Users\Jarvis\Documents\Exercicios c#\ProdutoPOO\ProdutoPOO\obj\Debug\net7.0\ProdutoPOO.pdb
+C:\Users\Jarvis\Documents\Exercicios c#\ProdutoPOO\ProdutoPOO\obj\Debug\net7.0\ProdutoPOO.genruntimeconfig.cache
+C:\Users\Jarvis\Documents\Exercicios c#\ProdutoPOO\ProdutoPOO\obj\Debug\net7.0\ref\ProdutoPOO.dll
+C:\Users\User\OneDrive\Documentos\Exercicios c#\ProdutoPOO\ProdutoPOO\bin\Debug\net7.0\ProdutoPOO.exe
+C:\Users\User\OneDrive\Documentos\Exercicios c#\ProdutoPOO\ProdutoPOO\bin\Debug\net7.0\ProdutoPOO.deps.json
+C:\Users\User\OneDrive\Documentos\Exercicios c#\ProdutoPOO\ProdutoPOO\bin\Debug\net7.0\ProdutoPOO.runtimeconfig.json
+C:\Users\User\OneDrive\Documentos\Exercicios c#\ProdutoPOO\ProdutoPOO\bin\Debug\net7.0\ProdutoPOO.dll
+C:\Users\User\OneDrive\Documentos\Exercicios c#\ProdutoPOO\ProdutoPOO\bin\Debug\net7.0\ProdutoPOO.pdb
+C:\Users\User\OneDrive\Documentos\Exercicios c#\ProdutoPOO\ProdutoPOO\obj\Debug\net7.0\ProdutoPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documentos\Exercicios c#\ProdutoPOO\ProdutoPOO\obj\Debug\net7.0\ProdutoPOO.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documentos\Exercicios c#\ProdutoPOO\ProdutoPOO\obj\Debug\net7.0\ProdutoPOO.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documentos\Exercicios c#\ProdutoPOO\ProdutoPOO\obj\Debug\net7.0\ProdutoPOO.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documentos\Exercicios c#\ProdutoPOO\ProdutoPOO\obj\Debug\net7.0\ProdutoPOO.dll
+C:\Users\User\OneDrive\Documentos\Exercicios c#\ProdutoPOO\ProdutoPOO\obj\Debug\net7.0\refint\ProdutoPOO.dll
+C:\Users\User\OneDrive\Documentos\Exercicios c#\ProdutoPOO\ProdutoPOO\obj\Debug\net7.0\ProdutoPOO.pdb
+C:\Users\User\OneDrive\Documentos\Exercicios c#\ProdutoPOO\ProdutoPOO\obj\Debug\net7.0\ProdutoPOO.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documentos\Exercicios c#\ProdutoPOO\ProdutoPOO\obj\Debug\net7.0\ref\ProdutoPOO.dll
+C:\Users\User\OneDrive\Documentos\Udemy Exercicios c#\ProdutoPOO - Construtores\ProdutoPOO\obj\Debug\net7.0\ProdutoPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documentos\Udemy Exercicios c#\ProdutoPOO - Construtores\ProdutoPOO\obj\Debug\net7.0\ProdutoPOO.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documentos\Udemy Exercicios c#\ProdutoPOO - Construtores\ProdutoPOO\obj\Debug\net7.0\ProdutoPOO.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documentos\Udemy Exercicios c#\ProdutoPOO - Construtores\ProdutoPOO\obj\Debug\net7.0\ProdutoPOO.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documentos\Udemy Exercicios c#\ProdutoPOO - Construtores\ProdutoPOO\obj\Debug\net7.0\ProdutoPOO.dll
+C:\Users\User\OneDrive\Documentos\Udemy Exercicios c#\ProdutoPOO - Construtores\ProdutoPOO\obj\Debug\net7.0\refint\ProdutoPOO.dll
+C:\Users\User\OneDrive\Documentos\Udemy Exercicios c#\ProdutoPOO - Construtores\ProdutoPOO\obj\Debug\net7.0\ProdutoPOO.pdb
+C:\Users\User\OneDrive\Documentos\Udemy Exercicios c#\ProdutoPOO - Construtores\ProdutoPOO\bin\Debug\net7.0\ProdutoPOO.exe
+C:\Users\User\OneDrive\Documentos\Udemy Exercicios c#\ProdutoPOO - Construtores\ProdutoPOO\bin\Debug\net7.0\ProdutoPOO.deps.json
+C:\Users\User\OneDrive\Documentos\Udemy Exercicios c#\ProdutoPOO - Construtores\ProdutoPOO\bin\Debug\net7.0\ProdutoPOO.runtimeconfig.json
+C:\Users\User\OneDrive\Documentos\Udemy Exercicios c#\ProdutoPOO - Construtores\ProdutoPOO\bin\Debug\net7.0\ProdutoPOO.dll
+C:\Users\User\OneDrive\Documentos\Udemy Exercicios c#\ProdutoPOO - Construtores\ProdutoPOO\bin\Debug\net7.0\ProdutoPOO.pdb
+C:\Users\User\OneDrive\Documentos\Udemy Exercicios c#\ProdutoPOO - Construtores\ProdutoPOO\obj\Debug\net7.0\ProdutoPOO.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documentos\Udemy Exercicios c#\ProdutoPOO - Construtores\ProdutoPOO\obj\Debug\net7.0\ref\ProdutoPOO.dll
+C:\Users\User\OneDrive\Documentos\Udemy Exercicios c#\ProdutoPOO - Sobrecarga\ProdutoPOO\bin\Debug\net7.0\ProdutoPOO.exe
+C:\Users\User\OneDrive\Documentos\Udemy Exercicios c#\ProdutoPOO - Sobrecarga\ProdutoPOO\bin\Debug\net7.0\ProdutoPOO.deps.json
+C:\Users\User\OneDrive\Documentos\Udemy Exercicios c#\ProdutoPOO - Sobrecarga\ProdutoPOO\bin\Debug\net7.0\ProdutoPOO.runtimeconfig.json
+C:\Users\User\OneDrive\Documentos\Udemy Exercicios c#\ProdutoPOO - Sobrecarga\ProdutoPOO\bin\Debug\net7.0\ProdutoPOO.dll
+C:\Users\User\OneDrive\Documentos\Udemy Exercicios c#\ProdutoPOO - Sobrecarga\ProdutoPOO\bin\Debug\net7.0\ProdutoPOO.pdb
+C:\Users\User\OneDrive\Documentos\Udemy Exercicios c#\ProdutoPOO - Sobrecarga\ProdutoPOO\obj\Debug\net7.0\ProdutoPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documentos\Udemy Exercicios c#\ProdutoPOO - Sobrecarga\ProdutoPOO\obj\Debug\net7.0\ProdutoPOO.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documentos\Udemy Exercicios c#\ProdutoPOO - Sobrecarga\ProdutoPOO\obj\Debug\net7.0\ProdutoPOO.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documentos\Udemy Exercicios c#\ProdutoPOO - Sobrecarga\ProdutoPOO\obj\Debug\net7.0\ProdutoPOO.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documentos\Udemy Exercicios c#\ProdutoPOO - Sobrecarga\ProdutoPOO\obj\Debug\net7.0\ProdutoPOO.dll
+C:\Users\User\OneDrive\Documentos\Udemy Exercicios c#\ProdutoPOO - Sobrecarga\ProdutoPOO\obj\Debug\net7.0\refint\ProdutoPOO.dll
+C:\Users\User\OneDrive\Documentos\Udemy Exercicios c#\ProdutoPOO - Sobrecarga\ProdutoPOO\obj\Debug\net7.0\ProdutoPOO.pdb
+C:\Users\User\OneDrive\Documentos\Udemy Exercicios c#\ProdutoPOO - Sobrecarga\ProdutoPOO\obj\Debug\net7.0\ProdutoPOO.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documentos\Udemy Exercicios c#\ProdutoPOO - Sobrecarga\ProdutoPOO\obj\Debug\net7.0\ref\ProdutoPOO.dll
+C:\Users\User\OneDrive\Documentos\Udemy  C#\ProdutoPOO - Encapsulamento\ProdutoPOO\bin\Debug\net7.0\ProdutoPOO.exe
+C:\Users\User\OneDrive\Documentos\Udemy  C#\ProdutoPOO - Encapsulamento\ProdutoPOO\bin\Debug\net7.0\ProdutoPOO.deps.json
+C:\Users\User\OneDrive\Documentos\Udemy  C#\ProdutoPOO - Encapsulamento\ProdutoPOO\bin\Debug\net7.0\ProdutoPOO.runtimeconfig.json
+C:\Users\User\OneDrive\Documentos\Udemy  C#\ProdutoPOO - Encapsulamento\ProdutoPOO\bin\Debug\net7.0\ProdutoPOO.dll
+C:\Users\User\OneDrive\Documentos\Udemy  C#\ProdutoPOO - Encapsulamento\ProdutoPOO\bin\Debug\net7.0\ProdutoPOO.pdb
+C:\Users\User\OneDrive\Documentos\Udemy  C#\ProdutoPOO - Encapsulamento\ProdutoPOO\obj\Debug\net7.0\ProdutoPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documentos\Udemy  C#\ProdutoPOO - Encapsulamento\ProdutoPOO\obj\Debug\net7.0\ProdutoPOO.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documentos\Udemy  C#\ProdutoPOO - Encapsulamento\ProdutoPOO\obj\Debug\net7.0\ProdutoPOO.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documentos\Udemy  C#\ProdutoPOO - Encapsulamento\ProdutoPOO\obj\Debug\net7.0\ProdutoPOO.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documentos\Udemy  C#\ProdutoPOO - Encapsulamento\ProdutoPOO\obj\Debug\net7.0\ProdutoPOO.dll
+C:\Users\User\OneDrive\Documentos\Udemy  C#\ProdutoPOO - Encapsulamento\ProdutoPOO\obj\Debug\net7.0\refint\ProdutoPOO.dll
+C:\Users\User\OneDrive\Documentos\Udemy  C#\ProdutoPOO - Encapsulamento\ProdutoPOO\obj\Debug\net7.0\ProdutoPOO.pdb
+C:\Users\User\OneDrive\Documentos\Udemy  C#\ProdutoPOO - Encapsulamento\ProdutoPOO\obj\Debug\net7.0\ProdutoPOO.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documentos\Udemy  C#\ProdutoPOO - Encapsulamento\ProdutoPOO\obj\Debug\net7.0\ref\ProdutoPOO.dll

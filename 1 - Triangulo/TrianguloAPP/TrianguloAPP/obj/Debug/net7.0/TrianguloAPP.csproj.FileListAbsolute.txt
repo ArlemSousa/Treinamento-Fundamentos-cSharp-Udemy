@@ -1,0 +1,14 @@
+C:\Users\Jarvis\Documents\Exercicios c#\TrianguloAPP\TrianguloAPP\bin\Debug\net7.0\TrianguloAPP.exe
+C:\Users\Jarvis\Documents\Exercicios c#\TrianguloAPP\TrianguloAPP\bin\Debug\net7.0\TrianguloAPP.deps.json
+C:\Users\Jarvis\Documents\Exercicios c#\TrianguloAPP\TrianguloAPP\bin\Debug\net7.0\TrianguloAPP.runtimeconfig.json
+C:\Users\Jarvis\Documents\Exercicios c#\TrianguloAPP\TrianguloAPP\bin\Debug\net7.0\TrianguloAPP.dll
+C:\Users\Jarvis\Documents\Exercicios c#\TrianguloAPP\TrianguloAPP\bin\Debug\net7.0\TrianguloAPP.pdb
+C:\Users\Jarvis\Documents\Exercicios c#\TrianguloAPP\TrianguloAPP\obj\Debug\net7.0\TrianguloAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jarvis\Documents\Exercicios c#\TrianguloAPP\TrianguloAPP\obj\Debug\net7.0\TrianguloAPP.AssemblyInfoInputs.cache
+C:\Users\Jarvis\Documents\Exercicios c#\TrianguloAPP\TrianguloAPP\obj\Debug\net7.0\TrianguloAPP.AssemblyInfo.cs
+C:\Users\Jarvis\Documents\Exercicios c#\TrianguloAPP\TrianguloAPP\obj\Debug\net7.0\TrianguloAPP.csproj.CoreCompileInputs.cache
+C:\Users\Jarvis\Documents\Exercicios c#\TrianguloAPP\TrianguloAPP\obj\Debug\net7.0\TrianguloAPP.dll
+C:\Users\Jarvis\Documents\Exercicios c#\TrianguloAPP\TrianguloAPP\obj\Debug\net7.0\refint\TrianguloAPP.dll
+C:\Users\Jarvis\Documents\Exercicios c#\TrianguloAPP\TrianguloAPP\obj\Debug\net7.0\TrianguloAPP.pdb
+C:\Users\Jarvis\Documents\Exercicios c#\TrianguloAPP\TrianguloAPP\obj\Debug\net7.0\TrianguloAPP.genruntimeconfig.cache
+C:\Users\Jarvis\Documents\Exercicios c#\TrianguloAPP\TrianguloAPP\obj\Debug\net7.0\ref\TrianguloAPP.dll

@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Documentos\Udemy Exercicios c#\3- Membros Estaticos\MembrosEstaticosExercicio\bin\Debug\net7.0\MembrosEstaticosExercicio.exe
+C:\Users\User\OneDrive\Documentos\Udemy Exercicios c#\3- Membros Estaticos\MembrosEstaticosExercicio\bin\Debug\net7.0\MembrosEstaticosExercicio.deps.json
+C:\Users\User\OneDrive\Documentos\Udemy Exercicios c#\3- Membros Estaticos\MembrosEstaticosExercicio\bin\Debug\net7.0\MembrosEstaticosExercicio.runtimeconfig.json
+C:\Users\User\OneDrive\Documentos\Udemy Exercicios c#\3- Membros Estaticos\MembrosEstaticosExercicio\bin\Debug\net7.0\MembrosEstaticosExercicio.dll
+C:\Users\User\OneDrive\Documentos\Udemy Exercicios c#\3- Membros Estaticos\MembrosEstaticosExercicio\bin\Debug\net7.0\MembrosEstaticosExercicio.pdb
+C:\Users\User\OneDrive\Documentos\Udemy Exercicios c#\3- Membros Estaticos\MembrosEstaticosExercicio\obj\Debug\net7.0\MembrosEstaticosExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documentos\Udemy Exercicios c#\3- Membros Estaticos\MembrosEstaticosExercicio\obj\Debug\net7.0\MembrosEstaticosExercicio.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documentos\Udemy Exercicios c#\3- Membros Estaticos\MembrosEstaticosExercicio\obj\Debug\net7.0\MembrosEstaticosExercicio.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documentos\Udemy Exercicios c#\3- Membros Estaticos\MembrosEstaticosExercicio\obj\Debug\net7.0\MembrosEstaticosExercicio.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documentos\Udemy Exercicios c#\3- Membros Estaticos\MembrosEstaticosExercicio\obj\Debug\net7.0\MembrosEstaticosExercicio.dll
+C:\Users\User\OneDrive\Documentos\Udemy Exercicios c#\3- Membros Estaticos\MembrosEstaticosExercicio\obj\Debug\net7.0\refint\MembrosEstaticosExercicio.dll
+C:\Users\User\OneDrive\Documentos\Udemy Exercicios c#\3- Membros Estaticos\MembrosEstaticosExercicio\obj\Debug\net7.0\MembrosEstaticosExercicio.pdb
+C:\Users\User\OneDrive\Documentos\Udemy Exercicios c#\3- Membros Estaticos\MembrosEstaticosExercicio\obj\Debug\net7.0\MembrosEstaticosExercicio.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documentos\Udemy Exercicios c#\3- Membros Estaticos\MembrosEstaticosExercicio\obj\Debug\net7.0\ref\MembrosEstaticosExercicio.dll
